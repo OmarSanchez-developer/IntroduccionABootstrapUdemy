@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{DBCE56CB-6AE9-4446-B5F9-E5F767078BC7}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IntroduccionABootstrapUdemy/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="IntroduccionABootstrapUdemy/wwwroot/lib/bootstrap/dist/css/bootstrap.css" Line="1" Column="1" IsPinned="True" />
+      <File FileName="IntroduccionABootstrapUdemy/Views/Home/Index.cshtml" Line="53" Column="32" />
+      <File FileName="IntroduccionABootstrapUdemy/wwwroot/css/site.css" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IntroduccionABootstrapUdemy" expanded="True">
+            <Node name="IntroduccionABootstrapUdemy" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IntroduccionABootstrapUdemy PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
